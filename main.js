@@ -19,7 +19,7 @@ d3.csv("movies.csv").then(data => {
     });
 
     // Check your work
-    console.log(data);
+    // console.log(data);
 
     /* ===================== LINE CHART ===================== */
 
